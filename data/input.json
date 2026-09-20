@@ -1,0 +1,5 @@
+[
+  {"id": 201, "name": "Anitha", "age": 20, "city": "Chennai", "score": 88},
+  {"id": 202, "name": "Bala", "age": null, "city": "Madurai", "score": 76.5},
+  {"id": 203, "name": "Charan", "age": 21, "city": null, "score": 92}
+]
