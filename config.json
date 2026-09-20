@@ -1,0 +1,12 @@
+{
+  "missing_values": {
+    "name": "Unknown",
+    "age": 0,
+    "city": "Unknown",
+    "score": 0.0
+  },
+  "numeric_columns": ["id", "age", "score"],
+  "required_columns": ["id", "name", "age", "city", "score"],
+  "score_min": 0,
+  "score_max": 100
+}
